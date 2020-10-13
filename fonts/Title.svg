@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190801 at Mon Oct 12 21:11:21 2020
+ By Jimmy Wärting
+</metadata>
+<defs>
+<font id="Noto Sans CJK JP Black" horiz-adv-x="1000" >
+  <font-face 
+    font-weight="900"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 10 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    cap-height="744"
+    bbox="-8 -104 987 856"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0041-7A76"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name="Identity.33" unicode="A" horiz-adv-x="660" 
+d="M251 309h152l-16 63c-20 74 -39 163 -59 239h-4c-18 -78 -38 -165 -57 -239zM480 0l-43 171h-220l-43 -171h-182l231 744h214l231 -744h-188z" />
+    <glyph glyph-name="Identity.48" unicode="P" horiz-adv-x="687" 
+d="M86 0v744h261c164 0 299 -58 299 -242c0 -177 -137 -255 -294 -255h-87v-247h-179zM265 388h78c87 0 129 41 129 114c0 75 -48 101 -134 101h-73v-215z" />
+    <glyph glyph-name="Identity.52" unicode="T" horiz-adv-x="640" 
+d="M230 0v596h-201v148h582v-148h-202v-596h-179z" />
+    <glyph glyph-name="Identity.1517" unicode="&#x6240;" 
+d="M500 809v-131h-451v131h451zM342 490h-126v-100h126v100zM482 261h-269c-8 -123 -30 -263 -90 -358c-23 25 -84 71 -114 87c64 108 69 266 69 382v247h404v-358zM672 630v-113h304v-140h-78v-473h-144v473h-86c-11 -154 -52 -343 -184 -471c-19 31 -73 81 -107 98
+c140 138 153 336 153 483v284l95 -22c86 27 169 62 225 97l127 -109c-91 -45 -201 -81 -305 -107z" />
+    <glyph glyph-name="Identity.2341" unicode="&#x7814;" 
+d="M279 151v224h-64v-224h64zM411 681h-141c-13 -60 -29 -121 -48 -179h180v-478h-187v-71h-119v288c-11 -15 -22 -30 -34 -43c-4 39 -28 134 -46 177c58 76 95 187 119 306h-96v131h372v-131zM653 450h84v223h-84v-223zM975 450v-137h-100v-408h-138v408h-87
+c-8 -147 -38 -312 -137 -417c-24 25 -77 66 -109 84c77 85 102 217 110 333h-84v137h87v223h-62v135h500v-135h-80v-223h100z" />
+    <glyph glyph-name="Identity.2432" unicode="&#x7a76;" 
+d="M801 563h-11v80h-104v-111c0 -29 4 -31 29 -31h56c21 0 26 9 30 62zM542 643h-87c-20 -149 -75 -244 -336 -294c-12 36 -46 90 -74 118c207 31 243 85 257 176h-88v-90h-146v219h360v84h150v-84h366v-209h-139c28 -19 85 -39 121 -47c-15 -112 -52 -142 -139 -142h-96
+c-123 0 -149 40 -149 156v113zM787 55h36c19 0 23 18 27 140c29 -26 97 -51 137 -62c-14 -173 -52 -221 -148 -221h-81c-111 0 -146 43 -146 180v99h-115c-28 -115 -117 -230 -369 -292c-21 36 -65 88 -97 120c186 43 270 106 306 172h-225v134h250v103h146v-103h258v-231
+c0 -35 3 -39 21 -39z" />
+  </font>
+</defs></svg>
