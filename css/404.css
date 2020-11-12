@@ -729,7 +729,7 @@ hr {
 
 
 svg {
-	width: 720px !important;
+	width: 720px;
 }
 
 /* Here you can change the size of the animation. Change the parameter height. */
