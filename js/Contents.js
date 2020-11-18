@@ -7,7 +7,7 @@ $(function(){
         //滚动条的滑动距离大于等于定位元素距离浏览器顶部的距离，就固定
         if(scroH>=navH){
             $(".post-toc").css({position: 'fixed',width: '216px',visibility: 'visible'});
-            $(".post-toc").animate({top: '20px'},800);
+            $(".post-toc").animate({top: '90px'},800);
         }
         else{
             $(".post-toc").css({position: 'static',top:'0px',visibility: 'hidden'});
