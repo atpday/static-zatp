@@ -51,7 +51,6 @@ function aln() {
                 }
                 isbool = true;
                 return false;
-                $("img").lazyload({effect: "fadeIn", threshold: 100, failurelimit: 5});
             }
         })
     }

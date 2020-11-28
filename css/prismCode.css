@@ -8,7 +8,7 @@ https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javasc
 
 code[class*="language-"],
 pre[class*="language-"] {
-	background: none;
+	background: #f8f8f8;
 	text-align: left;
 	white-space: pre;
 	word-spacing: normal;
@@ -51,7 +51,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: #f9f9f9;
+	background: #f8f8f8;
 }
 
 /* Inline code */

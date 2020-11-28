@@ -1,2 +1,2 @@
-# static-zatp
-js/css/fonts
+## static-zatp
+static resources for personal website
