@@ -1,2 +1,2 @@
-## static-zatp
-static resources for personal website
+## static.zatp.com
+Some static resources of my website :)
