@@ -1,2 +1,2 @@
 ## static.zatp.com
-Some static resources of my website :)
+Static resources of my website :)
